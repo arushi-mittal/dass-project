@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://root_admin:dass1234@cluster0.8beqo.mongodb.net/dass_project_db?retryWrites=true&w=majority",
+    "jwtSecret": "dass_project"
+}
