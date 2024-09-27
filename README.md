@@ -33,7 +33,7 @@ The machine learning model involves creation of files to extract images from vid
 
 The annotated files and extraction python files can be found in `Annotated json files` and `Python scripts data preprocesing`.
 
-Additionally, the initial requirements for the app where in Django, so dev_code contains the app in Django with functionality up to R1. The remainder was ported to MERN and implemented with the required functionality.
+Additionally, the initial requirements for the app were in Django, so `dev_code` contains the app in Django with functionality up to R1. The remainder was ported to MERN and implemented with the required functionality.
 
 ### Functionality
 
